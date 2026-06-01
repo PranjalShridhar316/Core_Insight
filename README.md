@@ -366,7 +366,12 @@ Areas of Interest:
 * System Monitoring
 
 ---
+## 📦 Installation
 
+Clone the repository:
+git clone https://github.com/PranjalShridhar316/Core_Insight.git
+cd Core_Insight
+---
 ## License
 
 This project is licensed under the MIT License.
