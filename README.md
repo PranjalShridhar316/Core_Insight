@@ -192,7 +192,7 @@ core_Insight/
 
 ## Requirements
 
-* Linux (Ubuntu/Debian Recommended)
+* Linux 
 * Bash
 * systemd
 * msmtp
