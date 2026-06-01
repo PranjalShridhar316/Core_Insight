@@ -1,0 +1,10 @@
+logs/*.log
+logs/*.logs
+
+reports/*.txt
+
+*.swp
+*.tmp
+
+.vscode/
+.idea/
